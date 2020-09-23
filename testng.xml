@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="youtube">
+
+<listeners>
+		<listener class-name="com.youtube.utilities.Reporting"/>
+	</listeners>
+  <test name="Test_Chrome">									
+		<classes>
+			<class name="com.youtube.testCases.MusicVideo" />
+			<parameter name="browser" value="Chrome" />
+		</classes>
+	</test> 
+	
+	<test name="Test_Firefox">									
+		<classes>
+			<class name="com.youtube.testCases.MusicVideo" />
+			<parameter name="browser" value="Firefox" />
+		</classes>
+	</test> 
+</suite> <!-- Suite -->

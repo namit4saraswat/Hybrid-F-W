@@ -1,0 +1,108 @@
+2020-09-23 18:40:12,439 +0530 [main] INFO  (BaseClass.java:33) - Chrome driver is launched
+2020-09-23 18:40:29,190 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,192 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-09-23 18:40:29,194 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-09-23 18:40:29,195 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-09-23 18:40:29,196 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2020-09-23 18:40:29,396 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,397 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-09-23 18:40:29,398 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-09-23 18:40:29,399 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-09-23 18:40:29,399 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2020-09-23 18:40:29,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,831 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-09-23 18:40:29,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-09-23 18:40:29,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-09-23 18:40:29,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2020-09-23 18:40:29,849 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,850 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-09-23 18:40:29,851 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-09-23 18:40:29,852 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-09-23 18:40:29,853 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2020-09-23 18:40:29,873 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,874 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-09-23 18:40:29,875 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-09-23 18:40:29,875 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-09-23 18:40:29,876 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2020-09-23 18:40:29,880 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,881 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-09-23 18:40:29,882 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-09-23 18:40:29,883 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-09-23 18:40:29,884 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2020-09-23 18:40:29,899 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-23 18:40:29,901 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,905 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2020-09-23 18:40:29,908 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2020-09-23 18:40:29,910 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2020-09-23 18:40:29,913 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2020-09-23 18:40:29,940 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,941 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-09-23 18:40:29,943 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-09-23 18:40:29,944 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-09-23 18:40:29,945 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2020-09-23 18:40:29,992 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,993 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-09-23 18:40:29,994 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-09-23 18:40:29,995 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-09-23 18:40:29,996 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2020-09-23 18:40:29,997 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:29,998 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-09-23 18:40:29,998 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-09-23 18:40:29,999 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-09-23 18:40:29,999 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2020-09-23 18:40:30,008 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,009 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-09-23 18:40:30,010 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-09-23 18:40:30,012 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-09-23 18:40:30,012 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2020-09-23 18:40:30,027 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,028 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-09-23 18:40:30,029 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-09-23 18:40:30,030 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-09-23 18:40:30,030 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2020-09-23 18:40:30,051 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,052 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-09-23 18:40:30,054 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-09-23 18:40:30,055 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-09-23 18:40:30,055 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2020-09-23 18:40:30,061 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-23 18:40:30,062 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,063 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-09-23 18:40:30,063 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-09-23 18:40:30,064 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-09-23 18:40:30,064 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2020-09-23 18:40:30,065 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,066 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2020-09-23 18:40:30,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2020-09-23 18:40:30,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2020-09-23 18:40:30,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2020-09-23 18:40:30,068 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,071 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2020-09-23 18:40:30,072 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2020-09-23 18:40:30,072 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2020-09-23 18:40:30,073 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2020-09-23 18:40:30,074 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,074 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2020-09-23 18:40:30,075 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2020-09-23 18:40:30,076 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2020-09-23 18:40:30,077 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2020-09-23 18:40:30,078 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,079 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2020-09-23 18:40:30,081 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2020-09-23 18:40:30,082 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2020-09-23 18:40:30,082 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2020-09-23 18:40:30,083 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,084 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-09-23 18:40:30,085 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-09-23 18:40:30,086 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-09-23 18:40:30,087 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2020-09-23 18:40:30,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,145 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-09-23 18:40:30,147 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-09-23 18:40:30,148 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-09-23 18:40:30,148 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2020-09-23 18:40:30,171 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-23 18:40:30,173 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-09-23 18:40:30,175 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-09-23 18:40:30,177 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-09-23 18:40:30,177 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/namit/.m2/repository/com/aventstack/extentreports/5.0.3/extentreports-5.0.3.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
